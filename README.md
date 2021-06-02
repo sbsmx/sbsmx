@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbsmx, Sebastian Garcia 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Data analysist
-- 🌱 I’m currently learning Machine Learning algorithms
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and Data analysis
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me sbsmx12@gmail.com
 
